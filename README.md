@@ -1,4 +1,6 @@
-# diy_esp32_hacking_projects
+# diy_esp32_hacking_project
+NOTE: This is only for educational purposes only
+
 Hi i am Jhon i will be teaching and showing you simple hacking devices and how to use
 What you need for some projects
 
