@@ -5,6 +5,12 @@ NOTE: This is only for educational purposes only
 Hi i am Jhon i will be teaching and showing you simple hacking devices and how to use
 What you need for some projects
 
+contents:[m5 stack stick s3](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L13)
+
+
+
+
+
 We will be using bruce
 stuff you need
 
