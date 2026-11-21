@@ -152,7 +152,7 @@ Button pins:
 ![esp8266 mini d1 or d1 pro](Images/deathur_wiring.jpg)
 
 
-to flash download [esp8266 d1/esp8266 d1 pro](esphub)
+to flash download [esp8266 d1/esp8266 d1 pro](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/blob/main/esp8266_deauther_2.6.1_WEMOS_D1_MINI.bin)
 
 
 
