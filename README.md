@@ -103,7 +103,8 @@ TX: (GPS Transmit)	GPIO04 (IO04)	Sends NMEA GPS data into the ESP32 (GPS_TX in M
 RX: (GPS Receive)	GPIO13 (IO13)	Receives commands from the ESP32 (GPS_RX in Marauder)
 
 battery pins (optional)
-![Battery pins](battery connecter.png)
+
+![Battery Connector](Images/battery%20connecter.png)
 
 
 
