@@ -22,4 +22,5 @@ select latest scroll down and you will see a lot of options.
 
 select m5 stack than find stick s3 press flash and it should work.
 
-if any problems go to troubleshooting.md
+if any problems go to [troubleshooting.md](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/blob/main/troubleshooting.md)
+
