@@ -5,7 +5,7 @@ NOTE: This is only for educational purposes only
 Hi i am Jhon i will be teaching and showing you simple hacking devices and how to use
 What you need for some projects
 
-contents:[m5 stack stick s3](https://github.com/ianisking808blip/diy_esp32_hacking_projects/blob/main/m5%20stack%20stick%20s3.md)
+contents:[m5 stack stick s3]([https://github.com/ianisking808blip/diy_esp32_hacking_projects/blob/main/m5%20stack%20stick%20s3.md](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/blob/main/m5%20stack%20stick%20s3.md))
 ,[esp32 marauder](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L34)
 ,[esp8266 deauther](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L120)
 ,[Credits & Acknowledgements](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L221)
