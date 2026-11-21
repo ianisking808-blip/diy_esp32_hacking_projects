@@ -1,4 +1,5 @@
 # diy_esp32_hacking_project
+
 NOTE: This is only for educational purposes only
 
 Hi i am Jhon i will be teaching and showing you simple hacking devices and how to use
@@ -24,3 +25,91 @@ select m5 stack than find stick s3 press flash and it should work.
 
 if any problems go to [troubleshooting.md](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/blob/main/troubleshooting.md)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CREDITS & ACKNOWLEDGEMENTS
+
+Bruce Firmware:
+https://github.com/pr3y/Bruce
+
+Original project and contributors:
+https://github.com/bmorcelli
+https://github.com/IncursioHack
+https://github.com/Luidiblu
+https://github.com/eadmaster
+https://github.com/rennancockles
+https://github.com/7h30th3r0n3
+https://github.com/Tawank
+https://github.com/geo-tp
+
+All original authors retain credit
+for their respective work.
