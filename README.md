@@ -7,7 +7,7 @@ What you need for some projects
 
 contents:[m5 stack stick s3](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L13)
 ,[esp32 marauder](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L34)
-,[esp8266 deauther](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L50)
+,[esp8266 deauther](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L120)
 
 
 We will be using bruce
@@ -107,10 +107,49 @@ battery pins (optional)
 ![Battery Connector](Images/battery%20connecter.png)
 
 
+To flash it go to https://justcallmekoko.github.io/MarauderInstaller/
+
+chose marauder v4 or v6 than on the right select the latest version 
+
+press continue and tick first install press continue agin and tick skip 
+
+press continue and scroll down and press the flash button and connect to the esp32 dev kit v4
 
 
 
+esp8266 deauth you [can buy one](https://dstike.com/products/dstike-wifi-deauther-mini?srsltid=AYCX9vIDw-9Hq-6xPS5ixksbyq0SnOedBFWNUeOaF1hb-wkfWueySQ_I)or you can build one 
 
+things to buy:
+1.esp8266 mini d1 or d1 pro
+
+2.oled 4 pin display screen 
+
+3. wires
+
+4. 3 buttons
+
+4 pin display pins:
+
+• OLED VCC → 3V3 
+
+• OLED GND → GND
+
+• OLED SDA → GPIO 4 (D2) 
+
+• OLED SCL → GPIO 5 (D1)
+
+
+Button pins:
+
+•UP	D5	GPIO 14	GND	
+
+•DOWN	D6	GPIO 12	GND	
+
+•SELECT (BUTTON_A)	D7	
+
+•BACK (BUTTON_B) (Optional)	D3	GPIO 0	GND
+
+![esp8266 mini d1 or d1 pro](Images/deathur_wiring.jpg)
 
 
 
