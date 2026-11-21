@@ -1,4 +1,4 @@
-# diy_esp32_hacking_project
+# diy_esp32_hacking_project(:<
 
 NOTE: This is only for educational purposes only
 
@@ -8,6 +8,7 @@ What you need for some projects
 contents:[m5 stack stick s3](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L13)
 ,[esp32 marauder](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L34)
 ,[esp8266 deauther](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L120)
+,[Credits & Acknowledgements](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L221)
 
 
 We will be using bruce
