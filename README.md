@@ -54,34 +54,56 @@ First wire like
 
 Pin connections:
 2.4" TFT Module Pin	
-1. VCC	3.3V (or 5V if U1 regulator is populated)	Power supply
-2. GND	GND	Ground
-3. CS	GPIO17	Display Chip Select
-4. RESET	GPIO05	Display Reset
-5. DC / RS	GPIO16	Data / Command select
-6. SDI (MOSI)	GPIO23	Shared SPI MOSI
-7. SCK	GPIO18	Shared SPI Clock
-8. LED	GPIO32 (or 3.3V for always-on)	Backlight control
-9. SDO (MISO)	GPIO19	Shared SPI MISO
-10. T_CLK	GPIO18	Touch SPI Clock (shared)
-11. T_CS	GPIO21	Touch Chip Select
-12. T_DIN	GPIO23	Touch MOSI (shared)
-13. T_DO	GPIO19	Touch MISO (shared)
-14. T_IRQ	(Leave unconnected)	Touch interrupt (unused)
+
+ VCC	3.3V (or 5V if U1 regulator is populated)	Power supply
+ 
+ GND	GND	Ground
+ 
+ CS	GPIO17	Display Chip Select
+ 
+ RESET	GPIO05	Display Reset
+ 
+ DC / RS	GPIO16	Data / Command select
+ 
+ SDI (MOSI)	GPIO23	Shared SPI MOSI
+ 
+ SCK	GPIO18	Shared SPI Clock
+
+ LED	GPIO32 (or 3.3V for always-on)	Backlight control
+ 
+ SDO (MISO)	GPIO19	Shared SPI MISO
+
+ T_CLK	GPIO18	Touch SPI Clock (shared)
+
+ T_CS	GPIO21	Touch Chip Select
+ 
+ T_DIN	GPIO23	Touch MOSI (shared)
+
+ T_DO	GPIO19	Touch MISO (shared)
+
+ T_IRQ	(Leave unconnected)	Touch interrupt (unused)
+
 SD_CS (4-pin header)	GPIO12	MicroSD Chip Select
+
 SD_MOSI (4-pin header)	GPIO23	MicroSD MOSI (shared)
+
 SD_MISO (4-pin header)	GPIO19	MicroSD MISO (shared)
+
 SD_SCK (4-pin header)	GPIO18	MicroSD Clock (shared)
 
 Gps pins:
 NEO-6M Module Pin	ESP32 DevKit V4 Pin	Notes
+
 VCC:	3.3V (or 5V)	Most GY-NEO6MV2 boards include an onboard 3.3V regulator and accept 3.3V–5V
+
 GND:	GND	Common ground
+
 TX: (GPS Transmit)	GPIO04 (IO04)	Sends NMEA GPS data into the ESP32 (GPS_TX in Marauder)
+
 RX: (GPS Receive)	GPIO13 (IO13)	Receives commands from the ESP32 (GPS_RX in Marauder)
 
 battery pins (optional)
-[![Battery pins](Images/battery connecter.png)](Images/battery connecter.png)
+![Battery pins](Images/battery connecter.png)
 
 
 
