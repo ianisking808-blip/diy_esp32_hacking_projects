@@ -6,9 +6,8 @@ Hi i am Jhon i will be teaching and showing you simple hacking devices and how t
 What you need for some projects
 
 contents:[m5 stack stick s3](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L13)
-
-
-
+contents:[esp32 marauder](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L34)
+contents:[esp8266 deauther](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/edit/main/README.md#L50)
 
 
 We will be using bruce
