@@ -152,6 +152,7 @@ Button pins:
 ![esp8266 mini d1 or d1 pro](Images/deathur_wiring.jpg)
 
 
+to flash download [esp8266 d1/esp8266 d1 pro](esphub)
 
 
 
@@ -214,7 +215,28 @@ Button pins:
 
 
 
-CREDITS & ACKNOWLEDGEMENTS
+
+
+# Credits & Acknowledgements
+
+A huge thank you to the developers and open-source projects that made these projects possible.
+
+### ESP32 Marauder
+- **Creator:** JustCallMeKoko
+- GitHub: https://github.com/justcallmekoko
+- Original project: https://github.com/justcallmekoko/ESP32Marauder
+
+### ESP8266 Deauther
+- **Creator:** Spacehuhn
+- GitHub: https://github.com/Spacehuhn
+- Original project: https://github.com/SpacehuhnTech/esp8266_deauther
+
+### Acknowledgement
+ESP32 Marauder was originally inspired by ESP8266 Deauther.
+
+All original developers retain credit for their respective work. This project is independently maintained and is not an official release of either project.
+
+Please refer to the original repositories for their respective licenses and usage conditions.
 
 Bruce Firmware:
 https://github.com/pr3y/Bruce
