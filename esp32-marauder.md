@@ -82,3 +82,17 @@ press continue and tick first install press continue agin and tick skip
 
 press continue and scroll down and press the flash button and connect to the esp32 dev kit v4
 
+### what to put on the sd card 
+
+1.fomat the sd card into 32fat
+
+2.Download [Evil portal](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/tree/main/portal)
+
+3. open it and copy everything from the file on to the sd card
+ 
+4. ap.config.txt is the wifi name now it is set to free wifi
+   
+5. index.html is the main html
+
+    
+###### AND THATS HOW YOU DO IT (:<
