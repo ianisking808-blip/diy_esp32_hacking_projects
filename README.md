@@ -8,9 +8,9 @@
 
 ---
 
-#<p align="center">
-# <b>🚀 About</b>
-#</p>
+<p align="center">
+ <b>🚀 About</b>
+</p>
 
 Welcome to DIY ESP32 Hacking Projects!
 
