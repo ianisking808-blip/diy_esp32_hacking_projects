@@ -35,7 +35,7 @@ The goal is to make hardware experimentation easier through installation guides,
 
 ## 📟 Supported Hardware
 
-| Device | Support |
+| Needed | Support |
 |---|---|
 | M5Stack StickS3 | Main device|
 | Wires | Very important |
