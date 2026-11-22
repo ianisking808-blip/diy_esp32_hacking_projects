@@ -29,8 +29,10 @@ The goal is to make hardware experimentation easier through installation guides,
 # Contents
 
 [Bruce🦈](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/blob/main/m5%20stack%20stick%20s3.md)
-,[Esp32-marauder](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/blob/main/esp32-marauder.md)
-,[Esp8266](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/blob/main/esp8266-deauther.md)
+
+[Esp32-marauder](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/blob/main/esp32-marauder.md)
+
+[Esp8266](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/blob/main/esp8266-deauther.md)
 
  # Trouble shooting
  [Trouble shooting](https://github.com/ianisking808-blip/diy_esp32_hacking_projects/blob/main/troubleshooting.md)
